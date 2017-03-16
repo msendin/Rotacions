@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Montse/AndroidStudioProjects/Rotaciones/app/src/main/res/values-land/dimens.xml -->
+    <eat-comment/>
+    <dimen name="heading_size">14dp</dimen>
+    <dimen name="table_body_size">11dp</dimen>
+    <dimen name="table_heading_size">16dp</dimen>
+</resources>

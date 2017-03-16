@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heading_size">14dp</dimen>
+    <dimen name="table_heading_size">16dp</dimen>
+    <dimen name="table_body_size">6dp</dimen>
+</resources>

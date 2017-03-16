@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rotaciones pantalla</string>
+    <string name="texto_intro">
+        Compara prestamos. Introduce un ratio de interes (%), entonces presiona el boton para ver la cuota mensual y la cantidad total de las cuotas. Todos los ejemplos asumen como capital inicial prestado $100,000
+ a devolver en 30 años.
+    </string>
+    <string name="prompt_ratio_interes">Ratio Interes: </string>
+    <string name="ratio_interes">Ratio\nInteres</string>
+    <string name="cuota_mensual">Cuota\nMensual</string>
+    <string name="total_pagos">Total\nPagos</string>
+    <string name="boton">Añade a Comparacion</string>
+</resources>
